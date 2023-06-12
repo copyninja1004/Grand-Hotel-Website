@@ -13,6 +13,7 @@
   </a>
   <a href="https://app.daily.dev/copyninja1004"><img src="https://api.daily.dev/devcards/275fb9f369af4989a78105369f5199fb.png?r=ce2" width="400" alt="Tetsuo Yamada's Dev Card"/></a>
 </div>
+
 # Grand-Hotel-website
 Flexbox Css Layout
 
