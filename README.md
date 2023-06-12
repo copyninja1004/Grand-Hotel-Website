@@ -1,4 +1,4 @@
-<div align="left">
+<div>
   <a href="https://twitter.com/TetsuoYamada">
     <img
       src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -11,10 +11,10 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://app.daily.dev/copyninja1004"><img src="https://api.daily.dev/devcards/275fb9f369af4989a78105369f5199fb.png?r=ce2" width="400" alt="Tetsuo Yamada's Dev Card"/></a>
+<!--   <a href="https://app.daily.dev/copyninja1004"><img src="https://api.daily.dev/devcards/275fb9f369af4989a78105369f5199fb.png?r=ce2" width="400" alt="Tetsuo Yamada's Dev Card"/></a> -->
 </div>
 
 # Grand-Hotel-website
-Flexbox Css Layout
 
-Discover the elegant Grand Hotel Website, crafted with CSS to create a visually stunning and user-friendly experience. Explore our luxurious amenities, book your stay, and indulge in a world of sophistication.
+Discover the elegant Grand Hotel Website, crafted with CSS to create a visually stunning and user-friendly experience.
+Explore our luxurious amenities, book your stay, and indulge in a world of sophistication.
